@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/moustappha/static/css/main.f251f349.css",
-    "main.js": "/moustappha/static/js/main.adecf9fe.js",
+    "main.css": "/moustappha/static/css/main.ff02f4b5.css",
+    "main.js": "/moustappha/static/js/main.dbb3c5ae.js",
     "static/js/453.1e96d135.chunk.js": "/moustappha/static/js/453.1e96d135.chunk.js",
-    "static/media/logo.svg": "/moustappha/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/moustappha/index.html",
-    "main.f251f349.css.map": "/moustappha/static/css/main.f251f349.css.map",
-    "main.adecf9fe.js.map": "/moustappha/static/js/main.adecf9fe.js.map",
+    "main.ff02f4b5.css.map": "/moustappha/static/css/main.ff02f4b5.css.map",
+    "main.dbb3c5ae.js.map": "/moustappha/static/js/main.dbb3c5ae.js.map",
     "453.1e96d135.chunk.js.map": "/moustappha/static/js/453.1e96d135.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f251f349.css",
-    "static/js/main.adecf9fe.js"
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.dbb3c5ae.js"
   ]
 }
