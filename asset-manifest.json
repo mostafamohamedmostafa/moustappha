@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moustappha/static/css/main.add17a9d.css",
-    "main.js": "/moustappha/static/js/main.2ba76f22.js",
+    "main.js": "/moustappha/static/js/main.c98b97db.js",
     "static/js/453.1e96d135.chunk.js": "/moustappha/static/js/453.1e96d135.chunk.js",
     "static/media/CompanyWebsite.png": "/moustappha/static/media/CompanyWebsite.77677d70c61a4d960ed9.png",
     "static/media/Tybiafishlogo.png": "/moustappha/static/media/Tybiafishlogo.145559d718f73b315c25.png",
@@ -22,11 +22,11 @@
     "static/media/SEO.png": "/moustappha/static/media/SEO.6d455abdca97d402d31b.png",
     "index.html": "/moustappha/index.html",
     "main.add17a9d.css.map": "/moustappha/static/css/main.add17a9d.css.map",
-    "main.2ba76f22.js.map": "/moustappha/static/js/main.2ba76f22.js.map",
+    "main.c98b97db.js.map": "/moustappha/static/js/main.c98b97db.js.map",
     "453.1e96d135.chunk.js.map": "/moustappha/static/js/453.1e96d135.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.add17a9d.css",
-    "static/js/main.2ba76f22.js"
+    "static/js/main.c98b97db.js"
   ]
 }
