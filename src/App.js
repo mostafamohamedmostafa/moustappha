@@ -5,8 +5,16 @@ import Nav from "./Component/Nav";
 import Projects from "./Component/Projects";
 import Who from "./Component/Who";
 import WorkExperince from "./Component/WorkExperience";
-
+import React, { useEffect } from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
 function App() {
+
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
+
   return (
     <div className="App">
       <Nav></Nav>

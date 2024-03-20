@@ -1,12 +1,13 @@
 
 function Contact() {
     return (
-      <div className="App">
-              <h1>Contact </h1>
+        <section>
+            <div className="Contact">
+                <h1>Contact </h1>
 
-      </div>
+            </div>
+        </section>
     );
-  }
-  
-  export default Contact;
-  
+}
+
+export default Contact;
