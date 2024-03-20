@@ -23,6 +23,8 @@ import  CompanyWebsite from "../img/CompanyWebsite.png"
 import Productlandingpage from "../img/ProductLandingPage.jpg"
 import DiceGame from "../img/dice.gif"
 import Matchinggame from "../img/Matchinggame.png"
+import Calculator from "../img/Calculator.png"
+import AwesomeCrop from "../img/AwesomeCrop.png"
 
 const education = [
     { year: "2024", Educationfrom: "Coursera", Educationname: "Meta Front-End Developer Professional", Educationdescription: "9 course series (Introduction to Front-End Development, Programming with JavaScript , Version Control ,HTML and CSS in depth ,React Basics ,Advanced React ,Principles of UX/UI Design ,Front-End Developer Capstone,Coding Interview Preparation)" },
@@ -74,7 +76,8 @@ const DemosProjects = [
     { ProjectName: " Dice Game", ProjectDemosDescription: " Create  ,Develope Dice Game   ", ProjectDemosTechnologies: "  Js ", Year: "2019", IMG: DiceGame, IMGAlt: "Dice Game  ", Link: "https://mostafamohamedmostafa.github.io/dicegame/", LinkRef: " " },
     
     { ProjectName: " Matching Game", ProjectDemosDescription: " Develope Matching Game (Matching 2 cards images togetther)   ", ProjectDemosTechnologies: " Js ", Year: "2019", IMG: Matchinggame, IMGAlt: "Matching Game", Link: "https://mostafamohamedmostafa.github.io/matching-game/", LinkRef: " " },
-    { ProjectName: " E Commerce Website", ProjectDemosDescription: " Create ,Desgin ,Develope ECommerce Website  Demo   ", ProjectDemosTechnologies: "React Js ", Year: "2024", IMG: Techvalleylogo, IMGAlt: "Techvalleylogo", Link: "https://techvalleyegypt.com/", LinkRef: "https://techvalleyegypt.com/" },
+    { ProjectName: " Basic Calculator ", ProjectDemosDescription: " Basic Calculator with comparison and mathematical operations   ", ProjectDemosTechnologies: "  Js ", Year: "2019", IMG: Calculator, IMGAlt: "Basic Calculator ", Link: "https://mostafamohamedmostafa.github.io/Basic-Calc/", LinkRef: " " },
+    { ProjectName: " Awesome Crop Demo Website ", ProjectDemosDescription: "    Create ,Desgin ,Develope Awesome Company Website  Demo  ", ProjectDemosTechnologies: " Html , Css , BootStrap   ", Year: "2020", IMG: AwesomeCrop, IMGAlt: "Awesome Crop Demo Website ", Link: "https://mostafamohamedmostafa.github.io/Awesome-Crop/", LinkRef: " " },
 
 ]
 export { education, Skills, WorkExperience, ProjectsMade, DemosProjects };
