@@ -3,14 +3,14 @@ function Demos() {
     return (
         <section className="container">
             <div className="Projects">
-                <h1 className="textcenter">Projects </h1>
+                <h1 className="text-center"  data-aos="flip-up">Projects </h1>
 
                 <div className="row row-cols-1 row-cols-md-3 g-4">
 
                     {DemosProjects.map((DemosProjectsdata, index) => {
                         return (
 
-                            <div className="col" key={index}>
+                            <div className="col Demos-Card" key={index} data-aos="fade-down" >
                                 <div className="card h-100">
                                     <img src={DemosProjectsdata.IMG} className="card-img-top" alt={DemosProjectsdata.IMGAlt} />
                                     <div className="card-body">
