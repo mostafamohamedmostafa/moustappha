@@ -17,6 +17,7 @@ function App() {
 
   return (
     <div className="App">
+      
       <Nav></Nav>
       <Who></Who>
       <Education></Education>
