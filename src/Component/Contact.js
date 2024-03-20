@@ -9,7 +9,14 @@ function Contact() {
                 <div class="bg bg3"></div>
           
             </div>
+
+            
         </section>
+
+
+ 
+
+ 
     );
 }
 
