@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/moustappha/static/css/main.80258fb8.css",
-    "main.js": "/moustappha/static/js/main.f9c5e201.js",
+    "main.css": "/moustappha/static/css/main.54321962.css",
+    "main.js": "/moustappha/static/js/main.4aec5373.js",
     "static/js/453.1e96d135.chunk.js": "/moustappha/static/js/453.1e96d135.chunk.js",
     "static/media/CompanyWebsite.png": "/moustappha/static/media/CompanyWebsite.77677d70c61a4d960ed9.png",
     "static/media/Tybiafishlogo.png": "/moustappha/static/media/Tybiafishlogo.145559d718f73b315c25.png",
@@ -21,12 +21,12 @@
     "static/media/Commingsoon.png": "/moustappha/static/media/Commingsoon.3fd330427c2aa9848b86.png",
     "static/media/SEO.png": "/moustappha/static/media/SEO.6d455abdca97d402d31b.png",
     "index.html": "/moustappha/index.html",
-    "main.80258fb8.css.map": "/moustappha/static/css/main.80258fb8.css.map",
-    "main.f9c5e201.js.map": "/moustappha/static/js/main.f9c5e201.js.map",
+    "main.54321962.css.map": "/moustappha/static/css/main.54321962.css.map",
+    "main.4aec5373.js.map": "/moustappha/static/js/main.4aec5373.js.map",
     "453.1e96d135.chunk.js.map": "/moustappha/static/js/453.1e96d135.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80258fb8.css",
-    "static/js/main.f9c5e201.js"
+    "static/css/main.54321962.css",
+    "static/js/main.4aec5373.js"
   ]
 }
