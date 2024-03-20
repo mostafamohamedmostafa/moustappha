@@ -8,7 +8,7 @@ function Education() {
 
 
                 <div className="Education">
-                    <h1 className="text-center" data-aos="flip-up">Education </h1>
+                    <h1 className="text-center" data-aos="flip-up">📚 Education </h1>
                     {education.map((educationdata, index) => {
                         return (
 
@@ -36,7 +36,7 @@ function Education() {
 
             <section className="container">
                 <div className="Skills">
-                    <h1 className="text-center" data-aos="flip-up">Skills </h1>
+                    <h1 className="text-center" data-aos="flip-up">✍️ Skills </h1>
 
                     <div className="row  row-cols-md-5 g-4 ">
 

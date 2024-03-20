@@ -27,7 +27,7 @@ h5 {
 
 .EducationSkills .card,
 .Projects-Card .card,
-.Demos-Card .card {
+.Demos-Card .card , .Contact-Card .card{
   border: none;
   box-shadow: 10px 10px rgba(0, 0, 0, 0.1);
   border-radius: 25px !important;
