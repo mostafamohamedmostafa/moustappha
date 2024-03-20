@@ -1,15 +1,32 @@
 {
   "files": {
-    "main.css": "/moustappha/static/css/main.ff02f4b5.css",
-    "main.js": "/moustappha/static/js/main.dbb3c5ae.js",
+    "main.css": "/moustappha/static/css/main.62b80039.css",
+    "main.js": "/moustappha/static/js/main.22eea3a4.js",
     "static/js/453.1e96d135.chunk.js": "/moustappha/static/js/453.1e96d135.chunk.js",
+    "static/media/CompanyWebsite.png": "/moustappha/static/media/CompanyWebsite.77677d70c61a4d960ed9.png",
+    "static/media/Tybiafishlogo.png": "/moustappha/static/media/Tybiafishlogo.145559d718f73b315c25.png",
+    "static/media/Resturantwebsitedemo.jpg": "/moustappha/static/media/Resturantwebsitedemo.13295fa96b6f65e91c70.jpg",
+    "static/media/dice.gif": "/moustappha/static/media/dice.80f0f93f404741e03eca.gif",
+    "static/media/MACM1.png": "/moustappha/static/media/MACM1.0b70ac97b55b3abacb6f.png",
+    "static/media/Tech-Valley-Egypt-Logo-1024x1024.png": "/moustappha/static/media/Tech-Valley-Egypt-Logo-1024x1024.4571dbcea81972b2a96a.png",
+    "static/media/code.png": "/moustappha/static/media/code.7e4568b8cc5349f3e228.png",
+    "static/media/Servicesproviderwebsitedemo.jpg": "/moustappha/static/media/Servicesproviderwebsitedemo.66c92b3d1edde5bc91a5.jpg",
+    "static/media/ios17.jpg": "/moustappha/static/media/ios17.91ff8e834ffbaa23e036.jpg",
+    "static/media/ProductLandingPage.jpg": "/moustappha/static/media/ProductLandingPage.30b19b865f7dd4902c0f.jpg",
+    "static/media/ServiceProvider.png": "/moustappha/static/media/ServiceProvider.5566ac3bcd839afa956c.png",
+    "static/media/logo.jpeg": "/moustappha/static/media/logo.1def7ed76e4a52fe7ee1.jpeg",
+    "static/media/react.png": "/moustappha/static/media/react.b68afd8c953f14235c81.png",
+    "static/media/ui-design.png": "/moustappha/static/media/ui-design.eb7e713809133bde99f5.png",
+    "static/media/Git.png": "/moustappha/static/media/Git.2825cdaffedad5cb4271.png",
+    "static/media/Commingsoon.png": "/moustappha/static/media/Commingsoon.3fd330427c2aa9848b86.png",
+    "static/media/SEO.png": "/moustappha/static/media/SEO.6d455abdca97d402d31b.png",
     "index.html": "/moustappha/index.html",
-    "main.ff02f4b5.css.map": "/moustappha/static/css/main.ff02f4b5.css.map",
-    "main.dbb3c5ae.js.map": "/moustappha/static/js/main.dbb3c5ae.js.map",
+    "main.62b80039.css.map": "/moustappha/static/css/main.62b80039.css.map",
+    "main.22eea3a4.js.map": "/moustappha/static/js/main.22eea3a4.js.map",
     "453.1e96d135.chunk.js.map": "/moustappha/static/js/453.1e96d135.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff02f4b5.css",
-    "static/js/main.dbb3c5ae.js"
+    "static/css/main.62b80039.css",
+    "static/js/main.22eea3a4.js"
   ]
 }
