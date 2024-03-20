@@ -10,7 +10,7 @@ function Contact() {
 
             </div>
 
-            <div className="card Contact-Card"   >
+            <div className="card Contact-Card"   data-aos="zoom-out"  >
                 <div className="card-body">
                     <h5 className="card-title">Moustafa Mohamed </h5>
                     <p className="card-text"> </p>
