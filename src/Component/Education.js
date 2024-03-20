@@ -6,7 +6,7 @@ function Education() {
         <section>
             <section className="container">
                 <div className="Education">
-                    <h1 className="text-center"  data-aos="flip-up">Education </h1>
+                    <h1 className="text-center" data-aos="flip-up">Education </h1>
                     {education.map((educationdata, index) => {
                         return (
 
@@ -34,7 +34,7 @@ function Education() {
 
             <section className="container">
                 <div className="Skills">
-                    <h1 className="text-center"  data-aos="flip-up">Skills </h1>
+                    <h1 className="text-center" data-aos="flip-up">Skills </h1>
 
                     <div className="row  row-cols-md-5 g-4 ">
 
@@ -43,12 +43,12 @@ function Education() {
                         {Skills.map((Skillsdata, index) => {
                             return (
 
-                                <div className="col  EducationSkills" data-aos="fade-down" key={index}>
+                                <div className="col  EducationSkills" data-aos="zoom-in-up" key={index}>
                                     <div className="card h-100 ">
 
                                         <img src={Skillsdata.IMG} className="img-fluid rounded-start " alt={Skillsdata.IMGALT} />
                                         <div className="card-body">
-                                            <h3 className="card-title text-center">{Skillsdata.Description}</h3>
+                                            <h4 className="card-title text-center">{Skillsdata.Description}</h4>
 
                                         </div>
                                     </div>

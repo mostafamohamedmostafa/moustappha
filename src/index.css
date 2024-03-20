@@ -5,10 +5,15 @@ body {
   font-family: "Madimi One", sans-serif !important;
   font-weight: 400;
   font-style: normal;
+  background-color:  rgba(0, 0, 0, 0.014) !important;
 }
 
 section {
   margin-bottom: 3%;
+}
+
+h1 , h3 ,h5{
+  color: #407bff !important;
 }
 
 .Education-Card,
@@ -36,7 +41,43 @@ section {
   transition: 0.5s ease-in;
   transform: scale(1.07);
 }
- 
+
+.container-animation {
+  color: black;
+  font-size: 2.26rem;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+}
+
+.animation {
+  height: 50px;
+  overflow: hidden;
+  margin-left: 1rem;
+}
+
+.animation > div > div {
+  padding: 0.25rem 0.75rem;
+  height: 3rem;
+  margin-bottom: 3.2rem;
+  display: inline-block;
+}
+
+.animation div:first-child {
+  animation: text-animation 8s infinite;
+}
+
+.first div {
+  color: #20a7d8;
+}
+.second div {
+  color: #cd921e;
+}
+.third div {
+  color: #c10528;
+}
 
  
  
