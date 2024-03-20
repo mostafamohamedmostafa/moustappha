@@ -4,9 +4,9 @@ import { education, Skills } from "./Data";
 function Education() {
     return (
         <section>
-            <section className="container">
+            <section className="container header finisher-header">
 
- 
+
                 <div className="Education">
                     <h1 className="text-center" data-aos="flip-up">Education </h1>
                     {education.map((educationdata, index) => {
@@ -76,6 +76,10 @@ function Education() {
         </section>
 
     );
+
+    
 }
 
 export default Education;
+
+
