@@ -12,7 +12,7 @@ function Projects() {
 
                             <div className="col Projects-Card" key={index} data-aos="fade-down" >
                                 <div className="card h-100">
-                                    <img src={ProjectsMadendata.IMG} className="card-img-top" alt={ProjectsMadendata.IMGAlt} />
+                                    <img  src={ProjectsMadendata.IMG} className="card-img-top img-fluid" alt={ProjectsMadendata.IMGAlt} />
                                     <div className="card-body">
                                         <h5 className="card-title"><strong>ProjectName:</strong>{ProjectsMadendata.ProjectName}</h5>
                                         <p className="card-text"><strong>ProjectDescription:</strong> {ProjectsMadendata.ProjectDescription}</p>

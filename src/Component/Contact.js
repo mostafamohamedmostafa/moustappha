@@ -4,13 +4,13 @@ function Contact() {
         <section className="container">
             <div className="Contact">
                 <h1 className="text-center">📱  Contact </h1>
-                <div class="bg"></div>
+                <div class="bg container"></div>
                 <div class="bg bg2"></div>
                 <div class="bg bg3"></div>
 
             </div>
 
-            <div className="card Contact-Card"   data-aos="zoom-out"  >
+            <div className="card Contact-Card"   data-aos="fade-down"  >
                 <div className="card-body">
                     <h5 className="card-title">Moustafa Mohamed </h5>
                     <p className="card-text"> </p>

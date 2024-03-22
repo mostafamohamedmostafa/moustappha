@@ -1,7 +1,7 @@
 import logo from "../img/logo.jpeg"
 function Nav() {
     return (
-        <div className="Navigation">
+        <div className="Navigation  container-fluid">
             <nav className="navbar   navbar-expand-lg bg-body-tertiary">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#">

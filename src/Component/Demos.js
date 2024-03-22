@@ -12,7 +12,7 @@ function Demos() {
 
                             <div className="col Demos-Card" key={index} data-aos="fade-down" >
                                 <div className="card h-100">
-                                    <img src={DemosProjectsdata.IMG} className="card-img-top" alt={DemosProjectsdata.IMGAlt} />
+                                    <img src={DemosProjectsdata.IMG} className="card-img-top img-fluid" alt={DemosProjectsdata.IMGAlt} />
                                     <div className="card-body">
                                         <h5 className="card-title"><strong>Project Name:</strong>{DemosProjectsdata.ProjectName}</h5>
                                         <p className="card-text"><strong>Project Description:</strong> {DemosProjectsdata.ProjectDemosDescription}</p>
