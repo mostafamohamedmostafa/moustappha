@@ -3,7 +3,7 @@ import { education, Skills } from "./Data";
 
 function Education() {
     return (
-        <section  className="container">
+        <section  >
             <section className="container header finisher-header">
 
 

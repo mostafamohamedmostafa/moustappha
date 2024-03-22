@@ -3,8 +3,8 @@ import Code from "../img/code.png"
 
 function Who() {
     return (
-        <section className="container">
-            <div className="context container">
+        <section className="container fluid">
+            <div className="context  ">
                 <h1 className="text-center" data-aos="fade-down">Designer, Frontend Developer 👨‍💻</h1>
 
                 <h1 className="text-center  " data-aos="fade-up">I design and code beautifully creative Websites</h1>            </div>
