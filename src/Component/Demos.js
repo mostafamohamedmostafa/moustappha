@@ -19,7 +19,7 @@ function Demos() {
                                         <p className="card-text"><strong>Project Technologies:</strong> {DemosProjectsdata.ProjectDemosTechnologies}</p>
                                         <p className="card-text"><strong>Year:</strong>    {DemosProjectsdata.Year}</p>
                                         <p className="card-text"><strong>Project Link:</strong>  <a target="_blank" href={DemosProjectsdata.Link}>Click Here</a>  </p>
-                                        <p className="card-text"><strong>Project Ref Link:</strong>  <a target="_blank" href={DemosProjectsdata.LinkRef}>Click Here</a>  </p>
+                                        <p className="card-text"><strong>Project Ref Link:</strong>  <a target="_blank" href={DemosProjectsdata.LinkRef}>{DemosProjectsdata.LinkText}</a>  </p>
                                     </div>
 
                                 </div>
