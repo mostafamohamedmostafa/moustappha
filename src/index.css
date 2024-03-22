@@ -200,3 +200,9 @@ h5 {
     transform: translateX(25%);
   }
 }
+
+@media screen and (min-width: 480px) {
+  .who-text {
+    font-size: medium;
+  }
+}

@@ -5,9 +5,9 @@ function Who() {
     return (
         <section className="container fluid">
             <div className="context  ">
-                <h1 className="text-center" data-aos="fade-down">Designer, Frontend Developer 👨‍💻</h1>
+                <h1 className="text-center who-text" data-aos="fade-down">Designer, Frontend Developer 👨‍💻</h1>
 
-                <h1 className="text-center  " data-aos="fade-up">I design and code beautifully creative Websites</h1>            </div>
+                <h1 className="text-center   who-text" data-aos="fade-up">I design and code beautifully creative Websites</h1>            </div>
 
 
             <div class="area container" >
