@@ -2,7 +2,7 @@ import { DemosProjects } from "./Data";
 function Demos() {
     return (
         <section className="container">
-            <div className="Projects">
+            <div className="Projects" id="DemoProjectsSection">
                 <h1 className="text-center"  data-aos="flip-up">💭 Projects Demos </h1>
 
                 <div className="row row-cols-1 row-cols-md-3 g-4">

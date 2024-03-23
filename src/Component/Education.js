@@ -4,11 +4,11 @@ import { education, Skills } from "./Data";
 function Education() {
     return (
         <section  >
-            <section className="container header finisher-header">
+            <section className="container header finisher-header" id="EducationSection">
 
 
                 <div className="Education">
-                    <h1 className="text-center" data-aos="flip-up">📚 Education </h1>
+                    <h1 className="text-center" data-aos="flip-up">📚 Education Highlightes</h1>
                     {education.map((educationdata, index) => {
                         return (
 

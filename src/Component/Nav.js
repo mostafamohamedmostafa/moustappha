@@ -14,23 +14,23 @@ function Nav() {
           <a className="nav-link active" aria-current="page" href="#whosection">Who am I</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Education</a>
+          <a className="nav-link" href="#EducationSection">Education</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">WorkExperience</a>
+          <a className="nav-link" href="#WorkExperienceSection">WorkExperience</a>
         </li>
       
 
         <li className="nav-item">
-          <a className="nav-link" href="#">Projects</a>
+          <a className="nav-link" href="#ProjectsSection">Projects</a>
         </li>
 
         <li className="nav-item">
-          <a className="nav-link" href="#">Demos Projects</a>
+          <a className="nav-link" href="#DemoProjectsSection">Demos Projects</a>
         </li>
 
         <li className="nav-item">
-          <a className="nav-link" href="#">Contact</a>
+          <a className="nav-link" href="#ContactSection">Contact</a>
         </li>     
          </ul>
     </div>

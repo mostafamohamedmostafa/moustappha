@@ -3,7 +3,7 @@ function WorkExperince() {
     return (
         <section>
             <section className="container">
-                <div className="WorkExperience">
+                <div className="WorkExperience"  id="WorkExperienceSection">
                     <h1 className="text-center"  data-aos="flip-up"> 💼 WorkExperience </h1>
                     {WorkExperience.map((WorkExperiencendata, index) => {
                         return (
