@@ -7,7 +7,7 @@ function Who() {
             <div className="context  ">
                 <h1 className="text-center who-text" data-aos="fade-down">Designer, Frontend Developer 👨‍💻</h1>
 
-                <h1 className="text-center   who-text" data-aos="fade-up">I design and code beautifully creative Websites</h1>            </div>
+                <h2 className="text-center   who-text" data-aos="fade-up">I design and code beautifully creative Websites</h2>            </div>
 
 
             <div class="area container" >
