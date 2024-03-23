@@ -134,7 +134,7 @@ const DemosProjects = [
     Year: "2024",
     IMG: Commingsoon,
     IMGAlt: "Techvalleylogo",
-    Link: "https://techvalleyegypt.com/",
+    Link: "https://mostafamohamedmostafa.github.io/smart-store/",
     LinkRef: "",
     LinkText: "No Reference ",
   },
