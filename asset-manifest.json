@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/moustappha/static/css/main.9df0318a.css",
+    "main.css": "/moustappha/static/css/main.03872738.css",
     "main.js": "/moustappha/static/js/main.860fdc2d.js",
     "static/js/453.1e96d135.chunk.js": "/moustappha/static/js/453.1e96d135.chunk.js",
     "static/media/CompanyWebsite.png": "/moustappha/static/media/CompanyWebsite.77677d70c61a4d960ed9.png",
@@ -22,12 +22,12 @@
     "static/media/Commingsoon.png": "/moustappha/static/media/Commingsoon.3fd330427c2aa9848b86.png",
     "static/media/SEO.png": "/moustappha/static/media/SEO.6d455abdca97d402d31b.png",
     "index.html": "/moustappha/index.html",
-    "main.9df0318a.css.map": "/moustappha/static/css/main.9df0318a.css.map",
+    "main.03872738.css.map": "/moustappha/static/css/main.03872738.css.map",
     "main.860fdc2d.js.map": "/moustappha/static/js/main.860fdc2d.js.map",
     "453.1e96d135.chunk.js.map": "/moustappha/static/js/453.1e96d135.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9df0318a.css",
+    "static/css/main.03872738.css",
     "static/js/main.860fdc2d.js"
   ]
 }
