@@ -231,6 +231,7 @@ const DemosProjects = [
     IMGAlt: "Dice Game  ",
     Link: "https://mostafamohamedmostafa.github.io/dicegame/",
     LinkRef: " ",
+    LinkText: "No Reference ",
   },
 
   {
