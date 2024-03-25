@@ -36,7 +36,8 @@ function Education() {
 
             <section className="container">
                 <div className="Skills">
-                    <h1 className="text-center" data-aos="flip-up">✍️ Skills </h1>
+                    <h5 className="text-muted text-center">My Skills</h5>
+                    <h1 className="text-center" data-aos="flip-up">Let’s Explore ✍️<span>Skills</span>   </h1>
 
                     <div className="row  row-cols-md-5 g-4 ">
 

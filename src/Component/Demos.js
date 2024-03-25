@@ -3,7 +3,10 @@ function Demos() {
     return (
         <section className="container">
             <div className="Projects" id="DemoProjectsSection">
-                <h1 className="text-center"  data-aos="flip-up">💭 Projects Demos </h1>
+            <h5 className="text-muted text-center">Latest Demo  Projects</h5>
+                <h1 className="text-center" data-aos="flip-up"> Explore My Popular 💭 <span> Demo Projects</span> </h1>
+
+       
 
                 <div className="row row-cols-1 row-cols-md-3 g-4">
 

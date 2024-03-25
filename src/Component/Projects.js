@@ -3,7 +3,8 @@ function Projects() {
     return (
         <section className="container">
             <div className="Projects" id="ProjectsSection">
-                <h1 className="text-center" data-aos="flip-up"> 💻 Projects </h1>
+            <h5 className="text-muted text-center">Latest Works</h5>
+                <h1 className="text-center" data-aos="flip-up"> Explore My Popular 💻 <span>Projects</span> </h1>
 
                 <div className="row row-cols-1 row-cols-md-2 g-4">
 

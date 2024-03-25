@@ -15,10 +15,15 @@ section {
 }
 
 h1,
-h3,
-h5 {
+h3 {
   color: #407bff !important;
 }
+
+span{
+  color: darkorchid;
+}
+
+
 
 .Education-Card,
 .WorkExperience-Card {
@@ -31,18 +36,21 @@ h5 {
 .Projects-Card .card,
 .Demos-Card .card,
 .Contact-Card .card {
-  border: none;
+  border: none ;
   box-shadow: 10px 10px rgba(0, 0, 0, 0.1);
   border-radius: 25px !important;
+  
 }
 
 .Demos-Card .card image {
   border-radius: 25px !important;
 }
 
-.Navigation{
+.Navigation {
   background-color: black;
 }
+
+
 
 .context {
   width: 90%;
@@ -205,4 +213,13 @@ h5 {
   }
 }
 
- 
+.react-icons:hover {
+  color: #407bff;
+}
+
+
+@media only screen and (min-width: 400px) {
+  .circles{
+    top: 300px !important;
+  }
+}
