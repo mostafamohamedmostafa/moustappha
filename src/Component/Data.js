@@ -68,13 +68,7 @@ const education = [
     Educationdescription:
       "Responsive Web Design Certification, Developer Certification, representing approximately 300 hours of coursework ",
   },
-  {
-    year: "2013",
-    Educationfrom: "Faculty of Commerce University of Alexandria ",
-    Educationname:
-      "Post Graduate diploma, Financial Accounting and Auditing · (2012 - 2013), Accounting and Finance",
-    Educationdescription: "",
-  },
+ 
 ];
 
 const Skills = [
@@ -126,6 +120,30 @@ const ProjectsMade = [
 ];
 
 const DemosProjects = [
+  {
+    ProjectName: " Comming Soon",
+    ProjectDemosDescription:
+      " Comming Soon Page Design With React Js And Bootstrap .",
+    ProjectDemosTechnologies: "React Js ",
+    Year: "2024",
+    IMG: Commingsoon,
+    IMGAlt: "Techvalleylogo",
+    Link: "https://mostafamohamedmostafa.github.io/smart-store/",
+    LinkRef: "",
+    LinkText: "No Reference ",
+  },
+  {
+    ProjectName: " Comming Soon",
+    ProjectDemosDescription:
+      " Comming Soon   ",
+    ProjectDemosTechnologies: "React Js ",
+    Year: "2024",
+    IMG: Commingsoon,
+    IMGAlt: "Techvalleylogo",
+    Link: "https://mostafamohamedmostafa.github.io/smart-store/",
+    LinkRef: "",
+    LinkText: "No Reference ",
+  },
   {
     ProjectName: " E Commerce Website",
     ProjectDemosDescription:
