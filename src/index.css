@@ -217,8 +217,11 @@ span{
   color: #407bff;
 }
 
+.card{
+  background-color: transparent  !important;
+}
 
-@media only screen and (min-width: 400px) {
+@media only screen and (min-width: 300px  ) and  (max-width: 600px)  {
   .circles{
     top: 300px !important;
   }
