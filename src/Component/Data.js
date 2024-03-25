@@ -12,6 +12,7 @@ import Techvalleylogo from "../img/Tech-Valley-Egypt-Logo-1024x1024.png";
 import Tybiafishlogo from "../img/Tybiafishlogo.png";
 
 import Commingsoon from "../img/Commingsoon.png";
+import todoapp from "../img/todoapp.png"
 import IOS17 from "../img/ios17.jpg";
 import MACM1 from "../img/MACM1.png";
 import Softwaredemo from "../img/Servicesproviderwebsitedemo.jpg";
@@ -133,13 +134,13 @@ const DemosProjects = [
     LinkText: "No Reference ",
   },
   {
-    ProjectName: " Comming Soon",
+    ProjectName: "ToDO List",
     ProjectDemosDescription:
-      " Comming Soon   ",
-    ProjectDemosTechnologies: "React Js ",
+      "Add,Update,Delete,Check Todo list App   ",
+    ProjectDemosTechnologies: "React Js ,Hooks , Bootstrap , Fontawesome ",
     Year: "2024",
-    IMG: Commingsoon,
-    IMGAlt: "Techvalleylogo",
+    IMG: todoapp,
+    IMGAlt: "Todo List App",
     Link: "https://mostafamohamedmostafa.github.io/smart-store/",
     LinkRef: "",
     LinkText: "No Reference ",
