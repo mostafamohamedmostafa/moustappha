@@ -10,9 +10,9 @@ import HTML5 from "../img/Html.png";
 
 import Techvalleylogo from "../img/Tech-Valley-Egypt-Logo-1024x1024.png";
 import Tybiafishlogo from "../img/Tybiafishlogo.png";
-
+import PersonalResume from "../img/PersonalResume.jpg";
 import Commingsoon from "../img/Commingsoon.png";
-import todoapp from "../img/todoapp.png"
+import todoapp from "../img/todoapp.png";
 import IOS17 from "../img/ios17.jpg";
 import MACM1 from "../img/MACM1.png";
 import Softwaredemo from "../img/Servicesproviderwebsitedemo.jpg";
@@ -69,7 +69,6 @@ const education = [
     Educationdescription:
       "Responsive Web Design Certification, Developer Certification, representing approximately 300 hours of coursework ",
   },
- 
 ];
 
 const Skills = [
@@ -122,21 +121,20 @@ const ProjectsMade = [
 
 const DemosProjects = [
   {
-    ProjectName: " Comming Soon",
-    ProjectDemosDescription:
-      " Comming Soon Page Design With React Js And Bootstrap .",
-    ProjectDemosTechnologies: "React Js ",
+    ProjectName: "Personal Resume Demo Project",
+    ProjectDemosDescription: " Personal Resume  ",
+    ProjectDemosTechnologies:
+      " React Js , Bootstrap , Aos Animation , React Router , React Icons , GitHub Pages ",
     Year: "2024",
-    IMG: Commingsoon,
-    IMGAlt: "Techvalleylogo",
-    Link: "https://mostafamohamedmostafa.github.io/smart-store/",
+    IMG: PersonalResume,
+    IMGAlt: "Personal Resume",
+    Link: "https://mostafamohamedmostafa.github.io/personal-resume-react/",
     LinkRef: "",
     LinkText: "No Reference ",
   },
   {
     ProjectName: "ToDO List",
-    ProjectDemosDescription:
-      "Add,Update,Delete,Check Todo list App   ",
+    ProjectDemosDescription: "Add,Update,Delete,Check Todo list App   ",
     ProjectDemosTechnologies: "React Js ,Hooks , Bootstrap , Fontawesome ",
     Year: "2024",
     IMG: todoapp,
