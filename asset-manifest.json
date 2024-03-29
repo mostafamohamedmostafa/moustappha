@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moustappha/static/css/main.4cb9af55.css",
-    "main.js": "/moustappha/static/js/main.39358cd8.js",
+    "main.js": "/moustappha/static/js/main.89099301.js",
     "static/js/453.1e96d135.chunk.js": "/moustappha/static/js/453.1e96d135.chunk.js",
     "static/media/CompanyWebsite.png": "/moustappha/static/media/CompanyWebsite.77677d70c61a4d960ed9.png",
     "static/media/Tybiafishlogo.png": "/moustappha/static/media/Tybiafishlogo.145559d718f73b315c25.png",
@@ -15,6 +15,7 @@
     "static/media/PersonalResume.jpg": "/moustappha/static/media/PersonalResume.8af0e46ecde6040f7de9.jpg",
     "static/media/ProductLandingPage.jpg": "/moustappha/static/media/ProductLandingPage.30b19b865f7dd4902c0f.jpg",
     "static/media/AwesomeCrop.png": "/moustappha/static/media/AwesomeCrop.328e199d74ef333665fb.png",
+    "static/media/companyresume.png": "/moustappha/static/media/companyresume.a46601e7756b9a4dda22.png",
     "static/media/ServiceProvider.png": "/moustappha/static/media/ServiceProvider.5566ac3bcd839afa956c.png",
     "static/media/logo.jpeg": "/moustappha/static/media/logo.1def7ed76e4a52fe7ee1.jpeg",
     "static/media/todoapp.png": "/moustappha/static/media/todoapp.8bc44318e2afab2d0d1b.png",
@@ -25,11 +26,11 @@
     "static/media/SEO.png": "/moustappha/static/media/SEO.6d455abdca97d402d31b.png",
     "index.html": "/moustappha/index.html",
     "main.4cb9af55.css.map": "/moustappha/static/css/main.4cb9af55.css.map",
-    "main.39358cd8.js.map": "/moustappha/static/js/main.39358cd8.js.map",
+    "main.89099301.js.map": "/moustappha/static/js/main.89099301.js.map",
     "453.1e96d135.chunk.js.map": "/moustappha/static/js/453.1e96d135.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cb9af55.css",
-    "static/js/main.39358cd8.js"
+    "static/js/main.89099301.js"
   ]
 }
