@@ -10,6 +10,7 @@ import HTML5 from "../img/Html.png";
 
 import Techvalleylogo from "../img/Tech-Valley-Egypt-Logo-1024x1024.png";
 import Tybiafishlogo from "../img/Tybiafishlogo.png";
+import companyresume from "../img/companyresume.png";
 import PersonalResume from "../img/PersonalResume.jpg";
 import Commingsoon from "../img/Commingsoon.png";
 import todoapp from "../img/todoapp.png";
@@ -120,6 +121,19 @@ const ProjectsMade = [
 ];
 
 const DemosProjects = [
+  {
+    ProjectName: "Company Resume Demo Project",
+    ProjectDemosDescription: " Company Resume  ",
+    ProjectDemosTechnologies:
+      " React Js , Bootstrap , Aos Animation , React Router , React Icons , GitHub Pages ",
+    Year: "2024",
+    IMG: PersonalResume,
+    IMGAlt: "Personal Resume",
+    Link: "https://mostafamohamedmostafa.github.io/company-resume",
+    LinkRef: "",
+    LinkText: "No Reference ",
+  },
+
   {
     ProjectName: "Personal Resume Demo Project",
     ProjectDemosDescription: " Personal Resume  ",
