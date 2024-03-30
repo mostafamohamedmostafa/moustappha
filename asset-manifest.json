@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/moustappha/static/css/main.4cb9af55.css",
-    "main.js": "/moustappha/static/js/main.89099301.js",
+    "main.js": "/moustappha/static/js/main.379e39fc.js",
     "static/js/453.1e96d135.chunk.js": "/moustappha/static/js/453.1e96d135.chunk.js",
     "static/media/CompanyWebsite.png": "/moustappha/static/media/CompanyWebsite.77677d70c61a4d960ed9.png",
     "static/media/Tybiafishlogo.png": "/moustappha/static/media/Tybiafishlogo.145559d718f73b315c25.png",
     "static/media/Resturantwebsitedemo.jpg": "/moustappha/static/media/Resturantwebsitedemo.13295fa96b6f65e91c70.jpg",
+    "static/media/multiuse.png": "/moustappha/static/media/multiuse.72c6962876d05ff89dc2.png",
     "static/media/dice.gif": "/moustappha/static/media/dice.80f0f93f404741e03eca.gif",
     "static/media/MACM1.png": "/moustappha/static/media/MACM1.0b70ac97b55b3abacb6f.png",
     "static/media/Tech-Valley-Egypt-Logo-1024x1024.png": "/moustappha/static/media/Tech-Valley-Egypt-Logo-1024x1024.4571dbcea81972b2a96a.png",
@@ -26,11 +27,11 @@
     "static/media/SEO.png": "/moustappha/static/media/SEO.6d455abdca97d402d31b.png",
     "index.html": "/moustappha/index.html",
     "main.4cb9af55.css.map": "/moustappha/static/css/main.4cb9af55.css.map",
-    "main.89099301.js.map": "/moustappha/static/js/main.89099301.js.map",
+    "main.379e39fc.js.map": "/moustappha/static/js/main.379e39fc.js.map",
     "453.1e96d135.chunk.js.map": "/moustappha/static/js/453.1e96d135.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cb9af55.css",
-    "static/js/main.89099301.js"
+    "static/js/main.379e39fc.js"
   ]
 }
