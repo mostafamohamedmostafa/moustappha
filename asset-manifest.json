@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moustappha/static/css/main.4cb9af55.css",
-    "main.js": "/moustappha/static/js/main.379e39fc.js",
+    "main.js": "/moustappha/static/js/main.6ae19959.js",
     "static/js/453.1e96d135.chunk.js": "/moustappha/static/js/453.1e96d135.chunk.js",
     "static/media/CompanyWebsite.png": "/moustappha/static/media/CompanyWebsite.77677d70c61a4d960ed9.png",
     "static/media/Tybiafishlogo.png": "/moustappha/static/media/Tybiafishlogo.145559d718f73b315c25.png",
@@ -12,6 +12,7 @@
     "static/media/Tech-Valley-Egypt-Logo-1024x1024.png": "/moustappha/static/media/Tech-Valley-Egypt-Logo-1024x1024.4571dbcea81972b2a96a.png",
     "static/media/code.png": "/moustappha/static/media/code.7e4568b8cc5349f3e228.png",
     "static/media/Servicesproviderwebsitedemo.jpg": "/moustappha/static/media/Servicesproviderwebsitedemo.66c92b3d1edde5bc91a5.jpg",
+    "static/media/modernresume.jpg": "/moustappha/static/media/modernresume.9905e5fc9ad652a98678.jpg",
     "static/media/ios17.jpg": "/moustappha/static/media/ios17.91ff8e834ffbaa23e036.jpg",
     "static/media/PersonalResume.jpg": "/moustappha/static/media/PersonalResume.8af0e46ecde6040f7de9.jpg",
     "static/media/ProductLandingPage.jpg": "/moustappha/static/media/ProductLandingPage.30b19b865f7dd4902c0f.jpg",
@@ -27,11 +28,11 @@
     "static/media/SEO.png": "/moustappha/static/media/SEO.6d455abdca97d402d31b.png",
     "index.html": "/moustappha/index.html",
     "main.4cb9af55.css.map": "/moustappha/static/css/main.4cb9af55.css.map",
-    "main.379e39fc.js.map": "/moustappha/static/js/main.379e39fc.js.map",
+    "main.6ae19959.js.map": "/moustappha/static/js/main.6ae19959.js.map",
     "453.1e96d135.chunk.js.map": "/moustappha/static/js/453.1e96d135.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cb9af55.css",
-    "static/js/main.379e39fc.js"
+    "static/js/main.6ae19959.js"
   ]
 }
