@@ -11,7 +11,7 @@ import HTML5 from "../img/Html.png";
 import Techvalleylogo from "../img/Tech-Valley-Egypt-Logo-1024x1024.png";
 import Tybiafishlogo from "../img/Tybiafishlogo.png";
 
-
+import multiuse from "../img/multiuse.png"
 import companyresume from "../img/companyresume.png";
 import PersonalResume from "../img/PersonalResume.jpg";
 import Commingsoon from "../img/Commingsoon.png";
@@ -123,6 +123,20 @@ const ProjectsMade = [
 ];
 
 const DemosProjects = [
+  {
+    ProjectName: "Multi Use  Demo Project",
+    ProjectDemosDescription: " Multi Use  Website  ",
+    ProjectDemosTechnologies:
+      " React Js , Bootstrap , Aos Animation , React Router , React Icons , GitHub Pages ",
+    Year: "2024",
+    IMG: multiuse,
+    IMGAlt: "Multi Use  Resume",
+    Link: "https://mostafamohamedmostafa.github.io/multiuse/",
+    LinkRef: "",
+    LinkText: "No Reference ",
+  },
+
+
   {
     ProjectName: "Company Resume Demo Project",
     ProjectDemosDescription: " Company Resume  ",
