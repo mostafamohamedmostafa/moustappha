@@ -21,11 +21,9 @@ h3 {
   color: #407bff !important;
 }
 
-span{
+span {
   color: darkorchid;
 }
-
-
 
 .Education-Card,
 .WorkExperience-Card {
@@ -38,10 +36,9 @@ span{
 .Projects-Card .card,
 .Demos-Card .card,
 .Contact-Card .card {
-  border: none ;
+  border: none;
   box-shadow: 10px 10px rgba(0, 0, 0, 0.1);
   border-radius: 25px !important;
-  
 }
 
 .Demos-Card .card image {
@@ -52,7 +49,9 @@ span{
   background-color: black;
 }
 
-
+.Demos .card {
+  background-color: snow !important;
+}
 
 .context {
   width: 90%;
@@ -219,12 +218,12 @@ span{
   color: #407bff;
 }
 
-.card{
-  background-color:  rgba(248, 248, 255, 0.678)  !important;
+.card {
+  background-color: rgba(248, 248, 255, 0.678) !important;
 }
 
-@media only screen and (min-width: 300px  ) and  (max-width: 600px)  {
-  .circles{
+@media only screen and (min-width: 300px) and (max-width: 600px) {
+  .circles {
     top: 300px !important;
   }
 }

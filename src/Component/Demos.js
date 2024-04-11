@@ -2,7 +2,7 @@ import { DemosProjects } from "./Data";
 function Demos() {
     return (
         <section className="container">
-            <div className="Projects" id="DemoProjectsSection">
+            <div className="Demos" id="DemoProjectsSection">
             <h5 className="text-muted text-center">Latest Demo  Projects</h5>
                 <h1 className="text-center" data-aos="flip-up"> Explore My Popular 💭 <span> Demo Projects</span> </h1>
 
@@ -15,7 +15,7 @@ function Demos() {
 
                             <div className="col Demos-Card" key={index} data-aos="fade-down" >
                                 <div className="card h-100">
-                                    <img src={DemosProjectsdata.IMG} className="card-img-top img-fluid" alt={DemosProjectsdata.IMGAlt} />
+                                    <img src={DemosProjectsdata.IMG} className="card-img-top img-fluid"  data-aos="zoom-in"  alt={DemosProjectsdata.IMGAlt} />
                                     <div className="card-body">
                                         <h5 className="card-title"><strong>Project Name:</strong>{DemosProjectsdata.ProjectName}</h5>
                                         <p className="card-text"><strong>Project Description:</strong> {DemosProjectsdata.ProjectDemosDescription}</p>
