@@ -134,7 +134,7 @@ const DemosProjects = [
     IMGAlt: "Morden Multi Use  Resume",
     Link: "https://mostafamohamedmostafa.github.io/morden-resume/",
     LinkRef: "",
-    LinkText: "No Reference ",
+    LinkText: "",
   },
   {
     ProjectName: "Multi Use  Demo Project",
@@ -146,7 +146,7 @@ const DemosProjects = [
     IMGAlt: "Multi Use  Resume",
     Link: "https://mostafamohamedmostafa.github.io/multiuse/",
     LinkRef: "",
-    LinkText: "No Reference ",
+    LinkText: "",
   },
 
   {
@@ -159,7 +159,7 @@ const DemosProjects = [
     IMGAlt: "Personal Resume",
     Link: "https://mostafamohamedmostafa.github.io/company-resume",
     LinkRef: "",
-    LinkText: "No Reference ",
+    LinkText: "",
   },
 
   {
@@ -172,7 +172,7 @@ const DemosProjects = [
     IMGAlt: "Personal Resume",
     Link: "https://mostafamohamedmostafa.github.io/personal-resume-react/",
     LinkRef: "",
-    LinkText: "No Reference ",
+    LinkText: "",
   },
   {
     ProjectName: "ToDO List",
@@ -183,7 +183,7 @@ const DemosProjects = [
     IMGAlt: "Todo List App",
     Link: "https://mostafamohamedmostafa.github.io/smart-store/",
     LinkRef: "",
-    LinkText: "No Reference ",
+    LinkText: "",
   },
   {
     ProjectName: " E Commerce Website",
@@ -195,7 +195,7 @@ const DemosProjects = [
     IMGAlt: "Techvalleylogo",
     Link: "https://mostafamohamedmostafa.github.io/smart-store/",
     LinkRef: "",
-    LinkText: "No Reference ",
+    LinkText: "",
   },
   {
     ProjectName: "  Apple IOS 17 website colon",
@@ -230,7 +230,7 @@ const DemosProjects = [
     IMGAlt: "Techvalleylogo",
     Link: "https://mostafamohamedmostafa.github.io/software-tech-website/",
     LinkRef: " ",
-    LinkText: "No Reference",
+    LinkText: "",
   },
   {
     ProjectName: " Services provider website demo",
@@ -243,7 +243,7 @@ const DemosProjects = [
     IMGAlt: "Services provider website demo",
     Link: "https://mostafamohamedmostafa.github.io/fixingwebsiteservice/",
     LinkRef: " ",
-    LinkText: "No Reference",
+    LinkText: "",
   },
 
   {
@@ -255,7 +255,7 @@ const DemosProjects = [
     IMGAlt: "Restaurant website demo",
     Link: "https://restaurant.techvalleyegypt.com/",
     LinkRef: "",
-    LinkText: "No Reference",
+    LinkText: "",
   },
   {
     ProjectName: "  Company Website  Demo   ",
@@ -267,7 +267,7 @@ const DemosProjects = [
     IMGAlt: "Company Website  Demo",
     Link: "https://mostafamohamedmostafa.github.io/company-react-website-2/",
     LinkRef: " ",
-    LinkText: "No Reference",
+    LinkText: "",
   },
   {
     ProjectName: " Product Landing Page Website",
@@ -279,7 +279,7 @@ const DemosProjects = [
     IMGAlt: "Product Landing Page",
     Link: "https://mostafamohamedmostafa.github.io/react-product-landing/",
     LinkRef: " ",
-    LinkText: "No Reference",
+    LinkText: "",
   },
   {
     ProjectName: " Dice Game",
@@ -290,7 +290,7 @@ const DemosProjects = [
     IMGAlt: "Dice Game  ",
     Link: "https://mostafamohamedmostafa.github.io/dicegame/",
     LinkRef: " ",
-    LinkText: "No Reference ",
+    LinkText: "",
   },
 
   {
@@ -303,7 +303,7 @@ const DemosProjects = [
     IMGAlt: "Matching Game",
     Link: "https://mostafamohamedmostafa.github.io/matching-game/",
     LinkRef: " ",
-    LinkText: "No Reference",
+    LinkText: "",
   },
   {
     ProjectName: " Basic Calculator ",
@@ -315,7 +315,7 @@ const DemosProjects = [
     IMGAlt: "Basic Calculator ",
     Link: "https://mostafamohamedmostafa.github.io/Basic-Calc/",
     LinkRef: " ",
-    LinkText: "No Reference",
+    LinkText: "",
   },
   {
     ProjectName: " Awesome Crop Demo Website ",
@@ -327,7 +327,7 @@ const DemosProjects = [
     IMGAlt: "Awesome Crop Demo Website ",
     Link: "https://mostafamohamedmostafa.github.io/Awesome-Crop/",
     LinkRef: " ",
-    LinkText: "No Reference",
+    LinkText: "",
   },
 ];
 export { education, Skills, WorkExperience, ProjectsMade, DemosProjects };
