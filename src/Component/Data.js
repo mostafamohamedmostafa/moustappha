@@ -229,7 +229,7 @@ const DemosProjects = [
     IMG: Softwaredemo,
     IMGAlt: "Techvalleylogo",
     Link: "https://mostafamohamedmostafa.github.io/software-tech-website/",
-    LinkRef: " ",
+    LinkRef: "",
     LinkText: "",
   },
   {
@@ -242,7 +242,7 @@ const DemosProjects = [
     IMG: Servicesprovider,
     IMGAlt: "Services provider website demo",
     Link: "https://mostafamohamedmostafa.github.io/fixingwebsiteservice/",
-    LinkRef: " ",
+    LinkRef: "",
     LinkText: "",
   },
 
@@ -266,7 +266,7 @@ const DemosProjects = [
     IMG: CompanyWebsite,
     IMGAlt: "Company Website  Demo",
     Link: "https://mostafamohamedmostafa.github.io/company-react-website-2/",
-    LinkRef: " ",
+    LinkRef: "",
     LinkText: "",
   },
   {
@@ -278,7 +278,7 @@ const DemosProjects = [
     IMG: Productlandingpage,
     IMGAlt: "Product Landing Page",
     Link: "https://mostafamohamedmostafa.github.io/react-product-landing/",
-    LinkRef: " ",
+    LinkRef: "",
     LinkText: "",
   },
   {
@@ -289,7 +289,7 @@ const DemosProjects = [
     IMG: DiceGame,
     IMGAlt: "Dice Game  ",
     Link: "https://mostafamohamedmostafa.github.io/dicegame/",
-    LinkRef: " ",
+    LinkRef: "",
     LinkText: "",
   },
 
@@ -302,7 +302,7 @@ const DemosProjects = [
     IMG: Matchinggame,
     IMGAlt: "Matching Game",
     Link: "https://mostafamohamedmostafa.github.io/matching-game/",
-    LinkRef: " ",
+    LinkRef: "",
     LinkText: "",
   },
   {
@@ -314,7 +314,7 @@ const DemosProjects = [
     IMG: Calculator,
     IMGAlt: "Basic Calculator ",
     Link: "https://mostafamohamedmostafa.github.io/Basic-Calc/",
-    LinkRef: " ",
+    LinkRef: "",
     LinkText: "",
   },
   {
@@ -326,7 +326,7 @@ const DemosProjects = [
     IMG: AwesomeCrop,
     IMGAlt: "Awesome Crop Demo Website ",
     Link: "https://mostafamohamedmostafa.github.io/Awesome-Crop/",
-    LinkRef: " ",
+    LinkRef: "",
     LinkText: "",
   },
 ];

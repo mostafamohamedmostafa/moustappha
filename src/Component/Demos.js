@@ -1,6 +1,6 @@
 import { DemosProjects } from "./Data";
 function Demos() {
-  const nonedisplay = { display: "none"};
+  const nonedisplay = { display: "none" };
   return (
     <section className="container">
       <div className="Demos" id="DemoProjectsSection">
@@ -43,13 +43,14 @@ function Demos() {
                         Click Here
                       </a>{" "}
                     </p>
-
-                    <p className="card-text" >
-
-
-
-                      <strong >Project Ref Link:</strong>{" "}
-                      <a target="_blank" href={DemosProjectsdata.LinkRef }  rel="noreferrer noopener external">
+             
+                    <p className="card-text" style={{display:DemosProjectsdata.LinkRef ?"block" :"none"}}>
+                      <strong>Project Ref Link:</strong>{" "}
+                      <a
+                        target="_blank"
+                        href={DemosProjectsdata.LinkRef}
+                        rel="noreferrer noopener external"
+                      >
                         {DemosProjectsdata.LinkText}
                       </a>
                     </p>
