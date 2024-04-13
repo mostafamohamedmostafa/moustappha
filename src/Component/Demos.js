@@ -14,7 +14,7 @@ function Demos() {
           {DemosProjects.map((DemosProjectsdata, index) => {
             return (
               <div className="col Demos-Card" key={index} data-aos="fade-down">
-                <div className="card h-100">
+                <div className="card">
                   <img
                     src={DemosProjectsdata.IMG}
                     className="card-img-top img-fluid"
@@ -23,29 +23,29 @@ function Demos() {
                   />
                   <div className="card-body">
                     <h5 className="card-title">
-                      <strong>Project Name:</strong>
-                      {DemosProjectsdata.ProjectName}
+                      <strong>Project Name:  </strong>
+                       {DemosProjectsdata.ProjectName}
                     </h5>
                     <p className="card-text">
-                      <strong>Project Description:</strong>{" "}
+                      <strong>Project Description:  </strong>{" "}
                       {DemosProjectsdata.ProjectDemosDescription}
                     </p>
                     <p className="card-text">
-                      <strong>Project Technologies:</strong>{" "}
+                      <strong>Project Technologies:  </strong>{" "}
                       {DemosProjectsdata.ProjectDemosTechnologies}
                     </p>
                     <p className="card-text">
-                      <strong>Year:</strong> {DemosProjectsdata.Year}
+                      <strong>Year:  </strong> {DemosProjectsdata.Year}
                     </p>
                     <p className="card-text">
-                      <strong>Project Link:</strong>{" "}
+                      <strong>Project Link:  </strong>{" "}
                       <a target="_blank" href={DemosProjectsdata.Link}>
                         Click Here
                       </a>{" "}
                     </p>
              
                     <p className="card-text" style={{display:DemosProjectsdata.LinkRef ?"block" :"none"}}>
-                      <strong>Project Ref Link:</strong>{" "}
+                      <strong>Project Ref Link:  </strong>{" "}
                       <a
                         target="_blank"
                         href={DemosProjectsdata.LinkRef}
