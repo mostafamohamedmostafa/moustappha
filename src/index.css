@@ -228,6 +228,13 @@ span {
   background-color: rgba(248, 248, 255, 0.678) !important;
 }
 
+.card img{
+  border-top-left-radius: 25px !important;
+  border-top-right-radius: 25px !important;
+
+
+}
+
 @media only screen and (min-width: 300px) and (max-width: 600px) {
   .circles {
     top: 300px !important;
