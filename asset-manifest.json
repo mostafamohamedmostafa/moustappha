@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/moustappha/static/css/main.972e0cc1.css",
-    "main.js": "/moustappha/static/js/main.543bbaff.js",
+    "main.css": "/moustappha/static/css/main.514a4a46.css",
+    "main.js": "/moustappha/static/js/main.5bb87550.js",
     "static/js/453.1e96d135.chunk.js": "/moustappha/static/js/453.1e96d135.chunk.js",
     "static/media/CompanyWebsite.png": "/moustappha/static/media/CompanyWebsite.77677d70c61a4d960ed9.png",
     "static/media/Tybiafishlogo.png": "/moustappha/static/media/Tybiafishlogo.145559d718f73b315c25.png",
@@ -19,7 +19,6 @@
     "static/media/AwesomeCrop.png": "/moustappha/static/media/AwesomeCrop.328e199d74ef333665fb.png",
     "static/media/companyresume.png": "/moustappha/static/media/companyresume.a46601e7756b9a4dda22.png",
     "static/media/ServiceProvider.png": "/moustappha/static/media/ServiceProvider.5566ac3bcd839afa956c.png",
-    "static/media/logo.jpeg": "/moustappha/static/media/logo.1def7ed76e4a52fe7ee1.jpeg",
     "static/media/todoapp.png": "/moustappha/static/media/todoapp.8bc44318e2afab2d0d1b.png",
     "static/media/react.png": "/moustappha/static/media/react.b68afd8c953f14235c81.png",
     "static/media/ui-design.png": "/moustappha/static/media/ui-design.eb7e713809133bde99f5.png",
@@ -27,12 +26,12 @@
     "static/media/Commingsoon.png": "/moustappha/static/media/Commingsoon.3fd330427c2aa9848b86.png",
     "static/media/SEO.png": "/moustappha/static/media/SEO.6d455abdca97d402d31b.png",
     "index.html": "/moustappha/index.html",
-    "main.972e0cc1.css.map": "/moustappha/static/css/main.972e0cc1.css.map",
-    "main.543bbaff.js.map": "/moustappha/static/js/main.543bbaff.js.map",
+    "main.514a4a46.css.map": "/moustappha/static/css/main.514a4a46.css.map",
+    "main.5bb87550.js.map": "/moustappha/static/js/main.5bb87550.js.map",
     "453.1e96d135.chunk.js.map": "/moustappha/static/js/453.1e96d135.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.972e0cc1.css",
-    "static/js/main.543bbaff.js"
+    "static/css/main.514a4a46.css",
+    "static/js/main.5bb87550.js"
   ]
 }
