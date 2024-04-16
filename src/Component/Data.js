@@ -11,6 +11,8 @@ import HTML5 from "../img/Html.png";
 import Techvalleylogo from "../img/Tech-Valley-Egypt-Logo-1024x1024.png";
 import Tybiafishlogo from "../img/Tybiafishlogo.png";
 
+
+import CarFixing from "../img/CarFixing.jpg";
 import modernresume from "../img/modernresume.jpg";
 import multiuse from "../img/multiuse.png";
 import companyresume from "../img/companyresume.png";
@@ -122,8 +124,19 @@ const ProjectsMade = [
     Link: "https://tybafish.com/",
   },
 ];
-
 const DemosProjects = [
+  {
+    ProjectName: "Multi Use - Car Fixing Shop Project",
+    ProjectDemosDescription: "Multi Use - Car Fixing Shop Project",
+    ProjectDemosTechnologies:
+      " React Js , Bootstrap , Aos Animation , React Router , React Icons , GitHub Pages ",
+    Year: "2024",
+    IMG: CarFixing,
+    IMGAlt: "Multi Use - Car Fixing Shop Project",
+    Link: "https://mostafamohamedmostafa.github.io/Carz/",
+    LinkRef: "https://cras-three.vercel.app/index.html",
+    LinkText: "Here",
+  },
   {
     ProjectName: "Multi Use - Morden  Demo Project",
     ProjectDemosDescription: "Morden Multi  Use  Website  ",
