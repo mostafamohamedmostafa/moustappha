@@ -194,7 +194,7 @@ const DemosProjects = [
     Year: "2024",
     IMG: todoapp,
     IMGAlt: "Todo List App",
-    Link: "https://mostafamohamedmostafa.github.io/smart-store/",
+    Link: "https://mostafamohamedmostafa.github.io/React-Todo/",
     LinkRef: "",
     LinkText: "",
   },
