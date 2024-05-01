@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moustappha/static/css/main.514a4a46.css",
-    "main.js": "/moustappha/static/js/main.716d3ddc.js",
+    "main.js": "/moustappha/static/js/main.9d80221f.js",
     "static/js/453.1e96d135.chunk.js": "/moustappha/static/js/453.1e96d135.chunk.js",
     "static/media/CarFixing.jpg": "/moustappha/static/media/CarFixing.68dc96988b6be1d31e35.jpg",
     "static/media/CompanyWebsite.png": "/moustappha/static/media/CompanyWebsite.77677d70c61a4d960ed9.png",
@@ -28,11 +28,11 @@
     "static/media/SEO.png": "/moustappha/static/media/SEO.6d455abdca97d402d31b.png",
     "index.html": "/moustappha/index.html",
     "main.514a4a46.css.map": "/moustappha/static/css/main.514a4a46.css.map",
-    "main.716d3ddc.js.map": "/moustappha/static/js/main.716d3ddc.js.map",
+    "main.9d80221f.js.map": "/moustappha/static/js/main.9d80221f.js.map",
     "453.1e96d135.chunk.js.map": "/moustappha/static/js/453.1e96d135.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.514a4a46.css",
-    "static/js/main.716d3ddc.js"
+    "static/js/main.9d80221f.js"
   ]
 }
